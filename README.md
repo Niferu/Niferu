@@ -92,8 +92,8 @@ Visit my website for more: https://niferu.vercel.app/
 
 <!--- Stats --->
 <p align="center">
-<img  width="47%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nlferu&show_icons=true&theme=aura&count_private=true&hide_border=true" />
-<img  width="49.64%;" src="https://github-readme-streak-stats.herokuapp.com/?user=nlferu&theme=aura&hide_border=true" />
+<img  width="47%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=niferu&show_icons=true&theme=aura&count_private=true&hide_border=true" />
+<img  width="49.64%;" src="https://github-readme-streak-stats.herokuapp.com/?user=niferu&theme=aura&hide_border=true" />
 </p>
 
 <!--- Out --->
@@ -102,9 +102,9 @@ Visit my website for more: https://niferu.vercel.app/
 <br></br>
 
 <p align="center">
-<img  align="center" VALIGN=TOP width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nlferu&hide_border=true&langs_count=8&theme=aura&layout=compact&hide_progress=false" />
+<img  align="center" VALIGN=TOP width="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niferu&hide_border=true&langs_count=8&theme=aura&layout=compact&hide_progress=false" />
 </p>
 
 <p> 
-<img align="right" alt="GitHub" width="120px" src="https://komarev.com/ghpvc/?username=nlferu&color=blueviolet" />
+<img align="right" alt="GitHub" width="120px" src="https://komarev.com/ghpvc/?username=niferu&color=blueviolet" />
 </p>
