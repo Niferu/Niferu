@@ -92,8 +92,8 @@ Visit my website for more: https://niferu.vercel.app/
 
 <!--- Stats --->
 <p align="center">
-<img width="47%;" src="https://github-readme-stats.vercel.app/api?username=niferu&show_icons=true&theme=aura&count_private=true&hide_border=true&hide_title=false" />
 <img  width="49.64%;" src="https://github-readme-streak-stats.herokuapp.com/?user=niferu&theme=aura&hide_border=true" />
+<img width="47%;" src="https://github-readme-stats.vercel.app/api?username=niferu&show_icons=true&theme=aura&count_private=true&hide_border=true&hide_title=false" />
 </p>
 
 <!--- Out --->
