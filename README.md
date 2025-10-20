@@ -6,7 +6,7 @@
 
 With over eight years of experience in the finance industry, including working for top American banks in the investment sector and trading various markets independently, I developed a strong interest in trading diverse assets like stocks, crypto, and futures. This passion pushed me to learn programming so I could test and automate my trading ideas. The ability to quickly validate my strategies using code made me fall in love with programming.
 
-I have finally come to realize that blockchain is this great mix of finance, programming, and decentralization – a perfect fit for my skills and passions. That made me start learning more languages and frameworks that allowed me to create applications within web 3.0 from start to end. I'm currently applying my skills by fully committing to these new technologies working as a blockchain and backend engineer.
+I have finally come to realize that blockchain is this great mix of finance, programming, and decentralization a perfect fit for my skills and passions. That made me start learning more languages and frameworks that allowed me to create applications within web 3.0 from start to end. I'm currently applying my skills by fully committing to these new technologies working as a blockchain and backend engineer.
 
 Visit my website for more: https://niferu.vercel.app/
 
@@ -78,7 +78,7 @@ Visit my website for more: https://niferu.vercel.app/
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Bash" width="40px"/></a>
 <!--- PowerShell --->
 <a href="https://learn.microsoft.com" target="_blank" rel="noreferrer" title="PowerShell">
-<img align="left" src="https://static-00.iconduck.com/assets.00/powershell-icon-256x193-nsgfym8m.png" alt="PowerShell" width="40px"/></a>
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" width="40px"/></a>
 <!--- GitScm --->
 <a href="https://git-scm.com" target="_blank" rel="noreferrer" title="GitScm">
 <img align="left" alt="GitScm" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /></a>
@@ -92,7 +92,7 @@ Visit my website for more: https://niferu.vercel.app/
 
 <!--- Stats --->
 <p align="center">
-<img  width="47%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=niferu&show_icons=true&theme=aura&count_private=true&hide_border=true" />
+<img width="47%;" src="https://github-readme-stats.vercel.app/api?username=niferu&show_icons=true&theme=aura&count_private=true&hide_border=true&hide_title=false" />
 <img  width="49.64%;" src="https://github-readme-streak-stats.herokuapp.com/?user=niferu&theme=aura&hide_border=true" />
 </p>
 
